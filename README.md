@@ -80,6 +80,8 @@ Glove-Eye is assembled by State Vocational High School 1 Depok __(SMKN 1 Depok Y
 - :trophy: 1st Winner of Technology Competition by Dikpora Sleman (2015), and
 - :trophy: Top 5 Science Project Awards Sebelas Maret University (2015).
 
+![team](https://raw.githubusercontent.com/LintangWisesa/Arduino-Glove-Eye/master/Lintang-Dewi-Ayu-Mia.jpg)
+
 #
 
 #### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
