@@ -75,12 +75,12 @@ void loop()
 #
 
 ### **5. Achievements** :star:
-Glove-Eye is assembled by State Vocational High School 1 Depok __(SMKN 1 Depok Yogyakarta)__ & has been awarded several achievements: 
+Glove-Eye was assembled by science team of State Vocational High School 1 Depok __(SMKN 1 Depok Yogyakarta)__ in 2015: Rini Setyowati, Ayu Nurjanah & Mia Monicca Basalama. It has been awarded several achievements: 
 - :trophy: Finalist of Creanovation Awards Dian Nuswantoro University (2015),
 - :trophy: 1st Winner of Technology Competition by Dikpora Sleman (2015), and
 - :trophy: Top 5 Science Project Awards Sebelas Maret University (2015).
 
-![team](https://raw.githubusercontent.com/LintangWisesa/Arduino-Glove-Eye/master/Lintang-Dewi-Ayu-Mia.jpg)
+    ![team](https://raw.githubusercontent.com/LintangWisesa/Arduino-Glove-Eye/master/Lintang-Dewi-Ayu-Mia.jpg)
 
 #
 
