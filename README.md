@@ -26,7 +26,7 @@ To build this project, you need the following items:
 
 ### **2. Schematics** :wrench::hammer:
 
-![simplinnovation](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
+![glove-eye](https://raw.githubusercontent.com/LintangWisesa/Arduino-Glove-Eye/master/glove-eye.png)
 
 #
 
