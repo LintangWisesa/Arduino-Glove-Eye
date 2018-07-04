@@ -75,7 +75,7 @@ void loop()
 #
 
 ### **5. Achievements** :star:
-Glove-Eye was assembled by Rini, Ayu & Mia from science team of State Vocational High School 1 Depok __(SMKN 1 Depok Yogyakarta)__ in 2015. You can read its paper & poster attached on this repo. Glove-Eye has been awarded several achievements: 
+Glove-Eye was assembled by Rini, Ayu & Mia from science team of State Vocational High School 1 Depok __(SMKN 1 Depok Yogyakarta)__ in 2015. You can read their [paper](https://github.com/LintangWisesa/Arduino-Glove-Eye/blob/master/Glove-eye%20Paper.pdf) & [poster](https://github.com/LintangWisesa/Arduino-Glove-Eye/blob/master/Glove-Eye%20Poster.png) attached on this repo. Glove-Eye has been awarded several achievements: 
 - :trophy: Finalist of Creanovation Awards Dian Nuswantoro University (2015),
 - :trophy: 1st Winner of Technology Competition by Dikpora Sleman (2015), and
 - :trophy: Top 5 Science Project Awards Sebelas Maret University (2015).
