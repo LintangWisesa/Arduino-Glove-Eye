@@ -80,6 +80,8 @@ Glove-Eye was assembled by Rini, Ayu & Mia from science team of State Vocational
 - :trophy: 1st Winner of Technology Competition by Dikpora Sleman (2015), and
 - :trophy: Top 5 Science Project Awards Sebelas Maret University (2015).
 
+#
+
     ![team](./Lintang-Rini-Ayu-Mia.jpg)
 
 #
