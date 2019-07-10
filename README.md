@@ -80,7 +80,7 @@ Glove-Eye was assembled by Rini, Ayu & Mia from science team of State Vocational
 - :trophy: 1st Winner of Technology Competition by Dikpora Sleman (2015), and
 - :trophy: Top 5 Science Project Awards Sebelas Maret University (2015).
 
-    ![team](https://raw.githubusercontent.com/LintangWisesa/Arduino-Glove-Eye/master/Lintang-Dewi-Ayu-Mia.jpg)
+    ![team](./Lintang-Dewi-Ayu-Mia.jpg)
 
 #
 
