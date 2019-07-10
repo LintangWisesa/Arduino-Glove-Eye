@@ -82,7 +82,7 @@ Glove-Eye was assembled by Rini, Ayu & Mia from science team of State Vocational
 
 #
 
-    ![team](./Lintang-Rini-Ayu-Mia.jpg)
+![team](./Lintang-Rini-Ayu-Mia.jpg)
 
 #
 
